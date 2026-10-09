@@ -1,4 +1,11 @@
-<img width="374" height="370" alt="pppppppp" src="https://github.com/user-attachments/assets/e6357fec-d008-4180-a975-42e680d261cb" />
+<div align="center">
+  <img src="Aap-Ki-Image-Ka-URL-Yahan-Aayega" width="120" alt="Futuristic Tech Logo" />
+  <h1>Futuristic Tech</h1>
+  <p><b>Next-Gen Digital Agency | AI Agents & WebGL Solutions</b></p>
+  <p><i>Founded by Malik Ayan</i></p>
+</div>
+
+---<img width="374" height="370" alt="pppppppp" src="https://github.com/user-attachments/assets/e6357fec-d008-4180-a975-42e680d261cb" />
 <img width="1536" height="1024" alt="ChatGPT Image Jul 25, 2026, 10_22_34 PM" src="https://github.com/user-attachments/assets/39f5622b-b04d-445c-98b0-82a774c41237" />
 # 🚀 Futuristic Tech — Enterprise AI & 3D WebGL Solutions
 
