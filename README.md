@@ -20,6 +20,7 @@
 <a href="https://futuristictech.top"><img src="https://img.shields.io/badge/🌐_WEBSITE-futuristictech.top-D4AF37?style=for-the-badge&labelColor=0A0A0A"/></a>
 <a href="mailto:futuristictech1821@gmail.com"><img src="https://img.shields.io/badge/✉️_EMAIL-GET_A_QUOTE-D4AF37?style=for-the-badge&labelColor=0A0A0A"/></a>
 <a href="https://wa.me/923254414584"><img src="https://img.shields.io/badge/💬_WHATSAPP-CHAT_NOW-D4AF37?style=for-the-badge&labelColor=0A0A0A"/></a>
+<a href="https://www.crunchbase.com/organization/futuristic-tech"><img src="https://img.shields.io/badge/CRUNCHBASE-COMPANY_PROFILE-D4AF37?style=for-the-badge&logo=crunchbase&logoColor=D4AF37&labelColor=0A0A0A"/></a>
 
 <br/><br/>
 
@@ -370,10 +371,19 @@ Yes. All engagements are conducted under NDA.
 
 <br/><br/>
 
+<table align="center">
+<tr><td align="center"><b>✉️ Email</b></td><td><a href="mailto:futuristictech1821@gmail.com">futuristictech1821@gmail.com</a></td></tr>
+<tr><td align="center"><b>💬 WhatsApp</b></td><td><a href="https://wa.me/923254414584">+92 325 4414584</a></td></tr>
+<tr><td align="center"><b>🌐 Website</b></td><td><a href="https://futuristictech.top">futuristictech.top</a></td></tr>
+<tr><td align="center"><b>🏢 Crunchbase</b></td><td><a href="https://www.crunchbase.com/organization/futuristic-tech">crunchbase.com/organization/futuristic-tech</a></td></tr>
+</table>
+
+<br/>
 
 <a href="mailto:futuristictech1821@gmail.com"><img src="https://img.shields.io/badge/✉️_EMAIL-D4AF37?style=for-the-badge&labelColor=0A0A0A"/></a>
 <a href="https://wa.me/923254414584"><img src="https://img.shields.io/badge/💬_WHATSAPP-D4AF37?style=for-the-badge&labelColor=0A0A0A"/></a>
 <a href="https://futuristictech.top"><img src="https://img.shields.io/badge/🌐_WEBSITE-D4AF37?style=for-the-badge&labelColor=0A0A0A"/></a>
+<a href="https://www.crunchbase.com/organization/futuristic-tech"><img src="https://img.shields.io/badge/CRUNCHBASE-D4AF37?style=for-the-badge&logo=crunchbase&logoColor=0A0A0A&labelColor=0A0A0A"/></a>
 
 <br/>
 
